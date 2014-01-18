@@ -47,11 +47,6 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
-  vendor/xiaomi/mione_plus/proprietary/etc/firmware/dsps_fluid.mdt:system/etc/firmware/dsps_fluid.mdt \
-  vendor/xiaomi/mione_plus/proprietary/etc/firmware/dsps_fluid.b03:system/etc/firmware/dsps_fluid.b03 \
-  vendor/xiaomi/mione_plus/proprietary/etc/firmware/dsps_fluid.b02:system/etc/firmware/dsps_fluid.b02 \
-  vendor/xiaomi/mione_plus/proprietary/etc/firmware/dsps_fluid.b01:system/etc/firmware/dsps_fluid.b01 \
-  vendor/xiaomi/mione_plus/proprietary/etc/firmware/dsps_fluid.b00:system/etc/firmware/dsps_fluid.b00 \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/bcmdhd.cal:system/etc/firmware/bcmdhd.cal \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcm4329.bin:system/etc/firmware/fw_bcm4329.bin \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcm4329_apsta.bin:system/etc/firmware/fw_bcm4329_apsta.bin \
